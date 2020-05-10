@@ -1,0 +1,2 @@
+rootProject.name='dicodjavv'
+include ':app'
